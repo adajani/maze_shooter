@@ -2,6 +2,11 @@
 
 A simple 3D FPS game using SDL2
 
+
+## Demo
+![Alt text](demo/menu.png?raw=true "Main menu")
+![Alt text](demo/game.png?raw=true "In game")
+
 ## Requirements
 
 ### Dependencies
